@@ -32,4 +32,7 @@ print(list5)
 
 #6. find length of the list
 list6=[5,3,6,2,6]
+
 print(len(list6))
+print(list6.count(6)) #it finds an element  how many times which appears in the tuple
+print(list6.index(6)) #finding the index value according to the existing element in list
