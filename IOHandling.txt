@@ -1,0 +1,22 @@
+I/O Handling in python - how python reads data and writes data
+> There are two types:
+  1.console I/O
+  2.File I/O
+
+1. console input and output handling - how python handles  the input and output from the user 
+    --> for input we use input() function
+    --> for output display we use print() function
+Example:
+    name=input("enter your name")
+    print(name)
+
+2. File input and output handling - how python handles the files such as creating a file, reading a file, writing a file, etc.,
+   --> for file handling python has a function called open(filename,mode)
+   mode refers to the restrictions on file that we need to keep 
+   such as,
+   "r" --> for read purpose only and must file already exist
+   "w" --> if there is a file then overwrites the matter otherwise it creates new file if not exists that file.
+   "a" --> append mode which add info at last
+   "r+" --> read + write purpose 
+   "rb" --> read binary file(bin)
+   "wb" --> write binary file(bin)
