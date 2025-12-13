@@ -1,0 +1,36 @@
+In pyhton, memory management is how python handles that data we given like code (variables,lists,tuples,etc,.)
+Python’s job is to:
+    1. Allocate memory when you create something
+    2. Reuse memory when possible
+    3. Free memory when objects are no longer needed
+--> All of this is handled automatically by Python (you don’t manually allocate/free memory like in C).
+
+Where Does Python Store Memory?
+-> Python divides memory into two main areas:
+   1. Stack memory
+   2. Heap memory
+1. Stack / namespace :
+--> Stores function calls
+--> Stores local variables
+--> Very fast
+--> Automatically cleared when a function ends
+
+example:
+x=10
+y=20
+print(x+y)
+
+Here, x and y stored in stack and it doesnt conatins the values of 10,20 it only points the reference to 10 and 20 values that are in the heap memory
+after print statement executed the python deletes those x and y variables in stack
+
+2. Heap:
+--> Stores objects (lists, dicts, class objects, etc.)
+--> Managed by Python internally
+--> Slower than stack but flexible
+
+example:
+x=[1,2,3,4,5,6,7,8,9]
+d={"name":"tharun"}
+
+--> List(X) and dictionary(d) are stored in heap
+--> a and b are just references that reference stored on stack

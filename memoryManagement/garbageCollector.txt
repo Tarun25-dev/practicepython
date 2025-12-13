@@ -1,0 +1,22 @@
+Garbage Collector - Python’s cleaner
+It removes unused objects from memory automatically.
+If no name (reference) points to an object.
+That object is garbage - garbage means useless things.
+Garbage Collector throws it away.
+
+EXAMPLE:
+
+>Box & Sticker Example (Best Way)
+ ->Box = object (heap)
+ ->Sticker = name (stack)
+ ->No sticker on a box = garbage
+
+x = 10
+x = 20
+
+--> Box 10 created
+--> Sticker x points to 10
+--> New box 20 created
+--> Sticker x moves to 20
+--> Box 10 has no sticker 
+--> GC removes box 10
