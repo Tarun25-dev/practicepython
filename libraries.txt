@@ -1,0 +1,21 @@
+Library - A library is a many modules and many packages all are used for one purpose is called library.
+
+1. Math related libraries
+   import Math       #module
+   import statistics #module 
+if we consider individual it is module,if we see together then is a math library
+
+2. Data science libraries
+   import pandas
+   import numpy
+
+3. web development libraries
+   import django
+   import flask
+
+Python itself only understands module & package
+--> Library is a word used by humans
+
+difference between packages and library in Python
+A package is a folder containing Python modules.
+A library is a collection of related packages and modules designed to perform a specific task.
