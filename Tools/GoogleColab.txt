@@ -1,0 +1,39 @@
+Before we going to learn colab we must know jupiter notebook so,
+
+Jupiter Notebook:
+Jupiter Notebook is an open-source and web based interactive environment,
+that allows users to write,run and document code(python code)in cells along with text,tables and visualizations in a single notebook file called interactive python notebook(.ipynb).
+
+colab used .ipynb file from jupiter notebook
+
+Colab:
+Google colaboratory is a cloud based jupiter notebook environment provided by google that allows users to write, run and share python code directly in the browser without installing any software,
+with free access to CPU, GPU, TPU for data science and machine learning tasks.
+
+colab used .ipynb file from jupiter notebook
+
+Features:
+
+1. Cloud based Notebook
+   > No installation required
+   > Works entirely in the browser
+2. Supports Python code
+   > Write, run and test code interactively
+3. Free access to Hardware accelerators
+   > GPU and TPU support for faster ML training
+4. Easy file management
+   > You can directly access files already in your Google Drive
+   > Upload files from your computer
+5. Install libraries instantly
+   > use !pip install to add python packages
+6. Interactive visualizations
+   > Supports charts, graphs, plots
+7. Supports markdown and LaTeX
+   > write formated text,equations and explanations along with code.
+8. Version control and Github integration
+   > Open notebooks directly from Github
+9. Automatic saving
+   > Saves works to google drive automatically
+10. Collaboration and saving
+    > Share notebooks like Google docs.
+    > Multiple people can edit at the same time.
