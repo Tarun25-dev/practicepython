@@ -1,0 +1,67 @@
+API(Application praogramming interface):
+>>>> An API is a set of rules and protocols that allows different software applications to communicate, share data, utilize each others features.
+>>>> Request + Response = API
+
+API Integration:
+>>>> Using an API inside your application to get or send data.
+Example:
+Frontend (Flask) ---> Backend (MySQL)
+>> We get data from Backend to frontend through calling Api's.
+Ex: displaying a student details from MySQL
+>> Also we send data to Backend through Api's.
+Ex: Log-in datails or new regitered details.
+
+REST API (REpresentational State Transfer):
+>>>> A set of rules ro designing an API's
+>>>> An API that follows REST rules.
+
+Why REST?
+Before REST:
+>> Messy URLs
+>> Custom methods
+>> Hard to understand applications
+
+After REST:
+>> Predictable
+>> Readable
+>> Scalable
+>> Easy to use
+
+Core Rules for REST:
+1. Everything is a Resource
+>> Data is treated as nouns, not verbs 
+Ex: "/getusers" wrong "/users" correct
+
+2. Use HTTP methods for actions
+>> There are four methods are there such as,
+    GET    --->    Read
+    POST   --->    Create
+    PUT    --->    Update
+    DELETE --->    Delete 
+
+3. Use URL's to identify data
+Ex: "/users"   --> comes all users
+    "/users/5" --> comes only one user(5)
+
+4. Use JSON to send data
+>> JSON is simple, lightweight, and understood by almost every programming language.
+Ex:
+{
+  "name": "Tarun",
+  "role": "Student"
+}
+
+Why JSON?
+Databases store data in tables.
+JSON represents the same structure cleanly.
+
+5. Stateless communication
+>> This REST rule is called STATELESSNESS.
+Each request must contain all the information needed to process it.
+The server does NOT remember previous requests.
+
+state = user/session data
+
+Logical example:
+You call today → explain problem
+You call tomorrow → must explain again
