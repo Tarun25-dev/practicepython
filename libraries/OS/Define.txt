@@ -1,0 +1,15 @@
+An Operating System is a software that manages computer hardware and software and provides common services for computer programs.
+Key Functions of OS:
+>> 1. Process Management - controls running programs (CPU scheduling, multitasking)
+>> 2. Memory Management - Allocates and manages RAM to programs.
+>> 3. File Management - Organizes, stores and retrives files on storage devices.
+>> 4. Device Management - Controls inputs and output devices like keyboard, mouse, printer, etc,..
+>> 5. Security & Access control - Protects data from unauthorized access.
+>> 6. User Interface - Provides CLI (command line interface) and GUI (graphical user interface) to interact.
+
+Examples:
+>> Windows
+>> MacOS
+>> Linux
+>> Android
+>> ios
