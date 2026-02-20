@@ -1,0 +1,4 @@
+The OS module in python is a built-in library that allows your python programs to interact to interact with operating system.
+>> It provides functions to work with files, folders, directories, environment variables, and system commands.
+>> You dont need to install anything like pip install os beacuse it already installed when we downdload and installed python in computer so we just import that library 
+>> import os
