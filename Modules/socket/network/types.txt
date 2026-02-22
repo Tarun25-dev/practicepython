@@ -1,0 +1,6 @@
+Types of Networks:
+
+1. LAN (Local Area Network): Small network in homes, schools, or offices.
+2. WAN (Wide Area Network): Large network that connects cities, countries, or the internet.
+
+Internet: The biggest global network connecting billions of devices.
