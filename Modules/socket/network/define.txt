@@ -1,0 +1,25 @@
+Network:
+>> A network is a simply system that connects computers, devices, or servers so they can communicate with each other.
+>> Think of it like a highway system for data.
+>> Computers send and receive information through network, just like cars carry peoples and goods on roads.
+
+Examples:
+>> Your home wifi connects to your phone,laptop and smart tv to the internet.
+>> Banks connect ATMs and branch offices to the central servers.
+>> Social media apps connect millions of users so messages,photos and videos can travel instantly.
+
+Importance of Networking:
+
+>> Web development: Websites and APIs work only because of networks (HTTP requests, servers).
+>> App development: Apps like WhatsApp, Zoom, and Gmail rely on networks.
+>> Data transfer & communication: Sending files, emails, or real-time chat.
+>> Security: Understanding networking helps protect apps from hackers.
+>> Performance optimization: Knowing how data travels helps make apps faster.
+
+Simple logic to Understand:
+
+my computer : person
+network : road
+server/website : shop/office 
+data : letters/packages 
+>> So, networking is how your computer sends and receives “letters” to/from other computers.
