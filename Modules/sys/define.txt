@@ -1,0 +1,8 @@
+sys - system (python's internal system environment)
+>> sys is a python built in module that provides access to system specific parameters and functions realated to the python interpreter.
+sys helps python programs:
+>> interact with the python runtime
+>> handle command line arguments
+>> control program execution
+>> interpreter settings
+>> in simple sentence sys, Interact directly with the Python interpreter.
