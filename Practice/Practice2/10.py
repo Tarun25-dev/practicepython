@@ -8,9 +8,10 @@ w = int(input("Enter Total Wheels:"))
 if (w-2*v)%2 != 0:
     print("Invalid input")
 else:
-    f = (w - 2*v) // 2
-    t = v - f
+    f = (w - 2*v) // 2 #total four wheelers
+    t = v - f #total two wheelers
     if t < 0 or f < 0: 
         print('INVALID INPUT')
     else: 
         print('Two Wheelers:', t); print('Four Wheelers:', f)
+
