@@ -7,4 +7,5 @@ for i in arr:
         seen.add(i)
     else:
         dup.add(i)
+
 print(*sorted(dup)) # by  adding * we remove those square brackets like list to nprmal output like in the example.
