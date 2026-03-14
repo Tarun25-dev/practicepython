@@ -46,7 +46,9 @@ Answer = 20
 
 Example:
 `
-Find sum of first 10 terms of Ap - 2, 5, 8, 11,... 10th term?
+Find sum of first 10 terms of Ap - 2, 5, 8, 11,... 10th term?`
+<br>
+`
 n = 10, d = 3, a = 2 | 10/2(2(2)+(10-1)*3 |
 Answer = 155
 `
