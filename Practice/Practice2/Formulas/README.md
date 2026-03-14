@@ -11,3 +11,7 @@
 ### Sum of cubes of First N natural numbers
 
 1<sup>3</sup> + 1<sup>3</sup> + 1<sup>3</sup> +...+ n<sup>3</sup>  |  `(n(n+1)/2)^2`
+
+### Sum of First N Odd numbers
+
+1 + 3 + 5 + 7 +...+ 2n-1  |  n<sup>2</sup>
