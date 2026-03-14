@@ -25,6 +25,8 @@
 ✔ nth odd number = 2n − 1
 
 Example:
-```
-Find 10<sup>th</sup>
-```
+`
+Find 10th Odd Number?
+2(10)-1 = 19
+Answer = 19
+`
