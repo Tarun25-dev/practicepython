@@ -1,5 +1,5 @@
 # Number System Formulas
 
-## Sum of First N natural numbers
+### Sum of First N natural numbers
 
-`thayn`
+`n*(n+1)/2`
