@@ -14,4 +14,4 @@
 
 ### Sum of First N Odd numbers
 
-1 + 3 + 5 + 7 +...+ 2n-1  |  n<sup>2</sup>
+1 + 3 + 5 + 7 +...+ 2n-1  |  `n^2`
