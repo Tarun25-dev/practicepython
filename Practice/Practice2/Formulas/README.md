@@ -30,6 +30,7 @@ Find 10th Odd Number?
 2(10)-1 = 19 |
 Answer = 19
 `
+
 ✔ nth even number = 2n
 
 Example:
