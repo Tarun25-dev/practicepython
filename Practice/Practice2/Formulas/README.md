@@ -15,3 +15,7 @@
 ### Sum of First N Odd numbers
 
 1 + 3 + 5 + 7 +...+ 2n-1  |  `n^2`
+
+### Sum of First N Even numbers
+
+2 + 4 + 6 + 8 +...+ 2n  |  `n(n+1)`
