@@ -10,4 +10,4 @@
 
 ### Sum of cubes of First N natural numbers
 
-1<sup>3</sup> + 1<sup>3</sup> + 1<sup>3</sup> +...+ n<sup>3</sup>  |  ``(n(n+1)/2)<sup>2</sup>``
+1<sup>3</sup> + 1<sup>3</sup> + 1<sup>3</sup> +...+ n<sup>3</sup>  |  ```(n(n+1)/2)<sup>2</sup>```
