@@ -19,3 +19,12 @@
 ### Sum of First N Even numbers
 
 2 + 4 + 6 + 8 +...+ 2n  |  `n(n+1)`
+
+#### Important for Odd/Even Facts
+
+✔ nth odd number = 2n − 1
+
+Example:
+```
+Find 10<sup>th</sup>
+```
