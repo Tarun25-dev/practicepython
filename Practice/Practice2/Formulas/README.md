@@ -6,4 +6,4 @@
 
 ### Sum of squares of First N natural numbers
 
-1^2
+1<sup>2</sup>
