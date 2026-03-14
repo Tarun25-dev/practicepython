@@ -48,8 +48,6 @@ Example:
 `
 Find sum of first 10 terms of Ap - 2, 5, 8, 11,... 10th term?
 n = 10, d = 3, a = 2 | 10/2(2(2)+(10-1)*3 |
-`
-`
 Answer = 155
 `
 
@@ -63,3 +61,4 @@ Find sum of first 10 terms of gp - 2, 6, 18, 54,... 10th term?
 n = 10, r = 3, a = 2 | 2*(3^10-1)/(3-1) |
 Answer = 59048
 `
+note: if r == 1 then use formula sum = a*n
