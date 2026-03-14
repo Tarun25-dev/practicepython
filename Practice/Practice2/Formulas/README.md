@@ -2,4 +2,4 @@
 
 ## Sum of First N natural numbers
 
-'thayn'
+`thayn`
