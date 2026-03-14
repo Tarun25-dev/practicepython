@@ -40,7 +40,13 @@ Find 10th Even Number?
 Answer = 20
 `
 
-### Sum of first 10 terms of A.P(arithmetic progression)
+### Sum of first N terms of A.P(arithmetic progression)
 
 `n/2*(2a+(n-1)*d)` | n = no.of terms | a = first term | d = common difference
 
+Example:
+`
+Find sum of 10 terms of Ap - 2, 5, 8, 11,... 10th term?
+n = 10, d = 3, a = 2 | 10/2(2(2)+(10-1)*3
+Answer = 155
+`
