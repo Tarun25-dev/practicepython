@@ -59,8 +59,10 @@ Answer = 155
 
 Example:
 `
-Find sum of first 10 terms of gp - 2, 6, 18, 54,... 10th term?
+Find sum of first 10 terms of gp - 2, 6, 18, 54,... 10th term?`
+<br>
+`
 n = 10, r = 3, a = 2 | 2*(3^10-1)/(3-1) |
 Answer = 59048
 `
-<br>**note**: If r == 1 then use formula sum = a*n
+<br> **note**: If r == 1 then use formula sum = a*n
