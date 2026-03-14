@@ -39,3 +39,8 @@ Find 10th Even Number?
 2(10) = 20 |
 Answer = 20
 `
+
+### Sum of first 10 terms of A.P(arithmetic progression)
+
+`n/2*(2a+(n-1)*d)` | n = no.of terms | a = first term | d = common difference
+
