@@ -67,6 +67,8 @@ Answer = 59048
 `
 <br> **note**: If r == 1 then use formula sum = a*n
 
+---
+
 ### Convert Celcius temperature to Fahrenheit temperature
 
 `F = C * 9/5 + 32`
@@ -74,3 +76,5 @@ Answer = 59048
 ### Convert Celcius temperature to Kelvin temperature
 
 `K = C + 273.15`
+
+---
