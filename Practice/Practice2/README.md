@@ -5,5 +5,10 @@
 
 |Feature|append()|extend()|
 |-------|--------|--------|
-|purpose|single item(any type)|iterable(list,tuple,etc.)|
+|purpose|Adds one element|Adds multiple elements|
+|input|single item(any type)|iterable(list,tuple,etc.)|
+|effect on list|Adds item as one whole element|Adds each elementindividually|
+|list structure|May create nested list|Keeps list flat|
+|syntax|`list.append(x)`|`list.extend(iterable)`|
+|time complexity|O(1)|O(n)|
 
