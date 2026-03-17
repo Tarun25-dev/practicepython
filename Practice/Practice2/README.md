@@ -12,3 +12,19 @@
 |syntax|`list.append(x)`|`list.extend(iterable)`|
 |time complexity|O(1)|O(n)|
 
+## Example
+
+### Using append()
+
+```
+a = [1,2]
+a.append([3,4])
+print(a)
+```
+
+### output
+
+```
+[1,2,[3,4]]
+```
+
