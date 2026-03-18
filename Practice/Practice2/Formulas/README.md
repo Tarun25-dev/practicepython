@@ -78,3 +78,12 @@ Answer = 59048
 `K = C + 273.15`
 
 ---
+
+# Profit & Loss
+
+### Basic Formulas
+
+- `profit = sp - cp`
+- `loss = cp - sp`
+
+
