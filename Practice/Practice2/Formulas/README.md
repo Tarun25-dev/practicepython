@@ -97,3 +97,9 @@ Answer = 59048
 
 - `sp = cp x (1+profit%)` <!--profit percentage convert to decimal like if 20% then 0.2-->
 - `sp = cp x (1-loss%)`
+- `sp = mp x (100 - d)/100`
+
+### Cost price
+
+- `cp = sp/(1 + profit%)`
+- `cp = sp/(1-loss%)`
