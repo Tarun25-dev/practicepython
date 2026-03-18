@@ -103,3 +103,8 @@ Answer = 59048
 
 - `cp = sp/(1 + profit%)`
 - `cp = sp/(1-loss%)`
+
+### Marked price & discount
+
+- `discount = mp - sp`
+- `discount% = (discount/mp) x 100`
