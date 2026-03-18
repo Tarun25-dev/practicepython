@@ -86,4 +86,7 @@ Answer = 59048
 - `profit = sp - cp`
 - `loss = cp - sp`
 
+### Percentage formulas
 
+- `profit % = (profit/cp) * 100`
+- `loss% = (loss/cp) * 100`
