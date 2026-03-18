@@ -108,3 +108,4 @@ Answer = 59048
 
 - `discount = mp - sp`
 - `discount% = (discount/mp) x 100`
+- `sp = mp x (1 - discount%)`
