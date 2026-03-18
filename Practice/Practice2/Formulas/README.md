@@ -115,3 +115,5 @@ Answer = 59048
 - When gain % = loss% and selling price is same then
 - `loss% = x^2/100`
 - x is the percentage of profit and loss same
+
+---
