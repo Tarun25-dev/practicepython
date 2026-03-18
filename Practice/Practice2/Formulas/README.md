@@ -116,4 +116,8 @@ Answer = 59048
 - `loss% = x^2/100`
 - x is the percentage of profit and loss same
 
+### Successive Percentage Formula
+
+- Use this formula when there are TWO percentage changes one after another on the same value.
+- `a + b + ab/100`
 ---
