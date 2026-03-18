@@ -90,3 +90,8 @@ Answer = 59048
 
 - `profit % = (profit/cp) * 100`
 - `loss% = (loss/cp) * 100`
+
+### Selling price
+
+- `sp = cp x (1+profit%)` <!--profit percentage convert to decimal like if 20% then 0.2-->
+- `sp = cp x (1-loss%)`
