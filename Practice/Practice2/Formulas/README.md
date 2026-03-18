@@ -109,3 +109,9 @@ Answer = 59048
 - `discount = mp - sp`
 - `discount% = (discount/mp) x 100`
 - `sp = mp x (1 - discount%)`
+
+### note : 
+
+- When gain % = loss% and selling price is same then
+- `loss% = x^2/100`
+- x is the percentage of profit and loss same
