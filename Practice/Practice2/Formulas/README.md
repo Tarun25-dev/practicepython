@@ -139,3 +139,4 @@ Answer = 59048
 - If average increases by X when a new number joins: New number value = `old avg + (old n + 1) * X`
 - Average of 1 to n is `(n + 1)/2`
 - Average of odd numbers from 1 to n is `(lastodd+1)/2`
+- Weighted average = `(w1 x a1) + (w2 x a2) / (w1 + w2)`
