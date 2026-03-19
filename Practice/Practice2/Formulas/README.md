@@ -125,3 +125,4 @@ Answer = 59048
 # Ratios and Proportions
 
 - cross Product rule = if `a : b = c : d` then `ad = bc`
+- compound ratio of `a : b` and `c : d` is `ac : bd`
