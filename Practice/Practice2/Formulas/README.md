@@ -140,3 +140,10 @@ Answer = 59048
 - Average of 1 to n is `(n + 1)/2`
 - Average of odd numbers from 1 to n is `(lastodd+1)/2`
 - Weighted average = `(w1 x a1) + (w2 x a2) / (w1 + w2)`
+
+---
+
+# Time and Work
+
+- If A does work in 'a' days, A's 1-day work = 1/a
+- combined work = `1/A + 1/B` & Time = `AB/(A+B)`
