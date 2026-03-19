@@ -126,3 +126,5 @@ Answer = 59048
 
 - cross Product rule = if `a : b = c : d` then `ad = bc`
 - compound ratio of `a : b` and `c : d` is `ac : bd`
+- duplicate ratio of `a : b = a^2 : b^2`
+- subduplicate ratio of `a : b = sqt(a) : sqt(b)`
