@@ -121,3 +121,7 @@ Answer = 59048
 - Use this formula when there are TWO percentage changes one after another on the same value.
 - `a + b + ab/100`
 ---
+
+# Ratios and Proportions
+
+- cross Product rule = if `a : b = c : d` then `ad = bc`
