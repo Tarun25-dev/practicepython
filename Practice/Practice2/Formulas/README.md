@@ -130,3 +130,10 @@ Answer = 59048
 - subduplicate ratio of `a : b = sqt(a) : sqt(b)`
 - if a : b : c to find individual shares:   `share(A) = a/(a+b+c) * total`
 - fourth proportional to `a,b,c = bc/a`
+
+---
+
+# Averages
+
+- `average = sum of all terms / no.of terms`
+- If average increases by X when a new number joins: New number value = `old avg + (old n + 1) * X`
