@@ -179,4 +179,18 @@ Answer = 59048
 - Cyclicity of 9 is 2(9,1,repeat 2 again,..)
 - No.of zeros at end of n! = n/5 + n/25 + n/125,..
 - Remainder theorem: (a+b)/n, remainder = [(a rem n) + (b rem n)]rem n
-- 
+- Prime factorization: No.of factors of X value = (a+1)(b+1)(c+1),..
+- Ex: 360 find no.of factors?
+```
+- take only prime number from lowest to highest
+- 360 / 2 = 180
+- 180 / 2 = 90
+- 90 / 2 = 45
+- 45 / 3 = 15
+- 15 / 3 = 5
+- 5 / 5 = 1
+- 2^3, 3^2, 5^1
+- now we calculate powers from starting like this 2 has 3 powers then a = 3, b = 2, c = 1
+- subtitute in the formula (3+1)(2+1)(1+1) = 4*3*2 = 24 factors for 360
+- Answer: 24
+```
