@@ -165,3 +165,8 @@ Answer = 59048
 - Boat upstream: `S - u` | Downstream: `S + u` | S = stream speed and u = boat own speed
 - Speed of stream `u = (D-U)/2`
 - Average speed (equal distance): `2ab/(a+b)`
+
+# Number System
+
+- Divisibility:
+- `2 ➡ last digit sum` | `2 ➡ last digit sum` | `2 ➡ last digit sum` | `2 ➡ last digit sum` | `2 ➡ last digit sum` | 
