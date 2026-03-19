@@ -169,4 +169,14 @@ Answer = 59048
 # Number System
 
 - Divisibility:
-- `2 ➡ last digit sum` | `2 ➡ last digit sum` | `2 ➡ last digit sum` | `2 ➡ last digit sum` | `2 ➡ last digit sum` | 
+- `2 ➡ last digit even` | `3 ➡ digit sum/3` | `4 ➡ last two digits/4` | `8 ➡ last 3 digits/8` | `9 ➡ digits sum/9`
+- 11th rule: (sum of digits at odd positions) - (sum of digits at even positions)
+- HCF X LCM = Product of two numbers
+- Unit digits of powers:
+- Cyclicity of 2 is 4(2,4,8,6,repeat 4 again,..) Ex: 2*2=4, 4*2=8, 8*2=16, 16*2=32 see last digit repeat again 2
+- Cyclicity of 3 is 4(3,9,7,1,repeat 4 again,..)
+- Cyclicity of 7 is 4(7,9,3,1,repeat 4 again,..)
+- Cyclicity of 9 is 2(9,1,repeat 2 again,..)
+- No.of zeros at end of n! = n/5 + n/25 + n/125,..
+- Remainder theorem: (a+b)/n, remainder = [(a rem n) + (b rem n)]rem n
+- 
