@@ -137,3 +137,5 @@ Answer = 59048
 
 - `average = sum of all terms / no.of terms`
 - If average increases by X when a new number joins: New number value = `old avg + (old n + 1) * X`
+- Average of 1 to n is `(n + 1)/2`
+- Average of odd numbers from 1 to n is `(lastodd+1)/2`
