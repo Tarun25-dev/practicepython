@@ -147,3 +147,7 @@ Answer = 59048
 
 - If A does work in 'a' days, A's 1-day work = 1/a
 - combined work = `1/A + 1/B` & Time = `AB/(A+B)`
+- LCM METHOD: Assume total work = LCM of all given days
+- Efficiency : 1/time
+- Pipe filling: Net rate = Fill rate - Drain rate
+- M×D×H/W = Constant (Men × Days × Hours / Work)
