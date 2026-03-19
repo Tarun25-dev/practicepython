@@ -194,3 +194,4 @@ Answer = 59048
 - subtitute in the formula (3+1)(2+1)(1+1) = 4*3*2 = 24 factors for 360
 - Answer: 24
 ```
+---
