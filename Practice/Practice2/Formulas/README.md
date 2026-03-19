@@ -153,3 +153,15 @@ Answer = 59048
 - M×D×H/W = Constant (Men × Days × Hours / Work)
 
 ---
+
+# Time, Speed & Distance
+
+- `Speed = distance / time`
+- conversion km/hr to m/s is multiply by 5/18
+- conversion m/sec to km/hr is multiply by 18/5
+- Relative speed (same direction): |S1 - S2|  |  Opposite: S1 + S2
+- Train crossing a pole/person: `T = Length/Speed`
+- Train crossing platform: T = (Train length + Platform length)/Speed
+- Boat upstream: `S - u` | Downstream: `S + u` | S = stream speed and u = boat own speed
+- Speed of stream `u = (D-U)/2`
+- Average speed (equal distance): `2ab/(a+b)`
