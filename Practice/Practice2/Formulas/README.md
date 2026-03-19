@@ -151,3 +151,5 @@ Answer = 59048
 - Efficiency : 1/time
 - Pipe filling: Net rate = Fill rate - Drain rate
 - M×D×H/W = Constant (Men × Days × Hours / Work)
+
+---
