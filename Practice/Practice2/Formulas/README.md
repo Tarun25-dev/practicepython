@@ -128,3 +128,5 @@ Answer = 59048
 - compound ratio of `a : b` and `c : d` is `ac : bd`
 - duplicate ratio of `a : b = a^2 : b^2`
 - subduplicate ratio of `a : b = sqt(a) : sqt(b)`
+- if a : b : c to find individual shares:   `share(A) = a/(a+b+c) * total`
+- fourth proportional to `a,b,c = bc/a`
