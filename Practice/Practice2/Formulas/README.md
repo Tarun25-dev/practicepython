@@ -223,3 +223,4 @@ Answer = 59048
 # Simple Intrest and Compound Intrest
 
 - Simple intrest: `SI = (p x r x t) / 100` and `amount = p + si`
+- Compound Intrest: `amount = p(1 + r/100)^t` and `CI = amount - p`
