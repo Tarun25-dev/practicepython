@@ -224,3 +224,5 @@ Answer = 59048
 
 - Simple intrest: `SI = (p x r x t) / 100` and `amount = p + si`
 - Compound Intrest: `amount = p(1 + r/100)^t` and `CI = amount - p`
+- Difference b/w ci and si for 2 years: `ci - si = p(r/100)^2`
+- Difference b/w ci and si for 3 years: `ci - si = p(r/100)^2 x (r/100 + 3)`
