@@ -226,3 +226,6 @@ Answer = 59048
 - Compound Intrest: `amount = p(1 + r/100)^t` and `CI = amount - p`
 - Difference b/w ci and si for 2 years: `ci - si = p(r/100)^2`
 - Difference b/w ci and si for 3 years: `ci - si = p(r/100)^2 x (r/100 + 3)`
+- Effective rate for half-yearly compounding use R/2 as rate and 2T as time period
+- Effective rate for quarterly commpounding use R/4 as rate and 4T as time period
+- `Time = 100 / Rate` and `Rate = 100 / Time`
