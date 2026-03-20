@@ -234,10 +234,13 @@ Answer = 59048
 
 # Blood relations
 
-### Fathers side
+### Father's and mother's side
 
 |name|desc|
 |----|----|
+|grand father|father's father / mother's father|
+|grand mother|father's mother / mother's mother|
+|uncle|father's brother / mother's brother|
+|aunt|father's sister / mother's sister|
 
-|grand father|father's father/mother's father|
-|grand mother|father's mother|mother's mother|
+
