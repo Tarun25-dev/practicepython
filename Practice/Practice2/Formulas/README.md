@@ -252,5 +252,12 @@ Answer = 59048
 |`daughter-in-law`|`son's wife`|
 |`son-in-law`|`daughter's husband`|
 
+### Nephew / Niece
+
+|name|desc|
+|----|----|
+|`nephew`|`brother's son / sister's son`|
+|`niece`|`brother's daughter / sister's daughter`|
+|-------|----------------------------------------|
 
 
