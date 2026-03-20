@@ -229,3 +229,8 @@ Answer = 59048
 - Effective rate for half-yearly compounding use R/2 as rate and 2T as time period
 - Effective rate for quarterly commpounding use R/4 as rate and 4T as time period
 - `Time = 100 / Rate` and `Rate = 100 / Time`
+
+---
+
+# Blood relations
+
