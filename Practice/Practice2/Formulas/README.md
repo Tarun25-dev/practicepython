@@ -197,3 +197,6 @@ Answer = 59048
 ---
 
 # Mixtures and Allegations
+
+- The Alligation Rule: Cheaper price(c), Dearer Price(d), Mean(mixture) Price(m)
+- Ratio of mixing: `(d - m) : (m - c)` = cheaper : dearer
