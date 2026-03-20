@@ -214,3 +214,8 @@ Answer = 59048
 - `p(a or b) = p(a) + p(b) - p(a and b)` where or = "union", and = "intersection"
 - `p(a and b) = p(a) x p(b)` if indipendent
 - Complimentary: `p(a^1) = 1-p(a)`
+- Cards: 52 total, 4 suits, 12 each
+- Dice: 6 faces each
+- circular arrangements: (n-1)!, with identical items: n! / repeat!
+
+---
