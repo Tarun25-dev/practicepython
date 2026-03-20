@@ -238,3 +238,5 @@ Answer = 59048
 
 |name|desc|
 |----|----|
+|grand father|father's father/mother's father|
+|grand mother|father's mother|mother's mother|
