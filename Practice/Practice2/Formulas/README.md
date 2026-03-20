@@ -259,4 +259,9 @@ Answer = 59048
 |`nephew`|`brother's son / sister's son`|
 |`niece`|`brother's daughter / sister's daughter`|
 
+---
+# Time
 
+- angle per minute moves 6° and 360° in 60 minutes
+- angle per hour moves 0.5° and 360° in 12 hours
+- Angle between hour and minute hand: `30H - 5.5M`
