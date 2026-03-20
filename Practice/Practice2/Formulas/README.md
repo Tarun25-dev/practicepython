@@ -234,3 +234,7 @@ Answer = 59048
 
 # Blood relations
 
+### Fathers side
+
+|name|desc|
+|----|----|
