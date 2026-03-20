@@ -238,9 +238,19 @@ Answer = 59048
 
 |name|desc|
 |----|----|
-|grand father|father's father / mother's father|
-|grand mother|father's mother / mother's mother|
-|uncle|father's brother / mother's brother|
-|aunt|father's sister / mother's sister|
+|`grand father`|`father's father / mother's father`|
+|`grand mother`|`father's mother / mother's mother`|
+|`uncle`|`father's brother / mother's brother`|
+|`aunt`|`father's sister / mother's sister`|
+
+### Marriage relations
+
+|name|desc|
+|----|----|
+|`father-in-law`|`husband's father / wife's father`|
+|`mother-in-law`|`husband's mother / wife's mother`|
+|`daughter-in-law`|`son's wife`|
+|`son-in-law`|`daughter's husband`|
+
 
 
