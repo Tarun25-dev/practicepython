@@ -219,3 +219,7 @@ Answer = 59048
 - circular arrangements: (n-1)!, with identical items: n! / repeat!
 
 ---
+
+# Simple Intrest and Compound Intrest
+
+- Simple intrest: `SI = (p x r x t) / 100` and `amount = p + si`
