@@ -203,3 +203,9 @@ Answer = 59048
 - if pure liquid is diluted with water: concentration after n removal = `c * [(v-x)/v]^n
 - (or) `initial volume x (1 - (removed / total volume))^n`
 - For mixing two solutions: alligation gives directly ratio
+
+---
+
+# Probability and Permutations & combinations
+
+- 
