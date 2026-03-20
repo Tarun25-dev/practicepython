@@ -258,6 +258,5 @@ Answer = 59048
 |----|----|
 |`nephew`|`brother's son / sister's son`|
 |`niece`|`brother's daughter / sister's daughter`|
-|-------|----------------------------------------|
 
 
