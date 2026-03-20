@@ -200,3 +200,5 @@ Answer = 59048
 
 - The Alligation Rule: Cheaper price(c), Dearer Price(d), Mean(mixture) Price(m)
 - Ratio of mixing: `(d - m) : (m - c)` = cheaper : dearer
+- if pure liquid is diluted with water: concentration after n removal = `c * [(v-x)/v]^n
+- (or) `initial volume x (1 - (removed / total volume))^n`
