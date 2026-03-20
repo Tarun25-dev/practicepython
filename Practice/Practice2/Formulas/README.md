@@ -211,3 +211,6 @@ Answer = 59048
 - Probability: `p(A) = Favorable outcomes / No.of outcomes`
 - Permutations(arranging) `npr = n! / (n - r)!` where r = total selected and n = total
 - Combinations(select) `ncr = n! / r! x (n-r)!`
+- `p(a or b) = p(a) + p(b) - p(a and b)` where or = "union", and = "intersection"
+- `p(a and b) = p(a) x p(b)` if indipendent
+- Complimentary: `p(a^1) = 1-p(a)`
