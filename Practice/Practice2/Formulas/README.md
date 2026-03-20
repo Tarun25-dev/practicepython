@@ -195,3 +195,5 @@ Answer = 59048
 - Answer: 24
 ```
 ---
+
+# Mixtures and Allegations
