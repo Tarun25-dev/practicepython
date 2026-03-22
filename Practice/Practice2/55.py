@@ -12,4 +12,4 @@ else:
 d=discount/100*n
 pay=n-d
 print(int(pay))
-print("discount:",int(n-pay),"₹")
+print("discount:",int(n-pay))
