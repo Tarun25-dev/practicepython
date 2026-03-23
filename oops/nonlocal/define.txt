@@ -1,0 +1,13 @@
+>> nonlocal: is  a keyword used inside nested functions.
+>> It allows you to modify a variable from the outer(enclosing) function,not the global one.
+
+>> when do we need nonlocal?
+>> Normally if you try to change a variable from an outer function inside an inner function,
+>> py treats it as a new local variable 
+>> so to tell py i want to use the variable from the outer function, not create a new one.
+
+>> in python we use this nonlocal concept using keyword nonlocal 
+
+>> Syntax:
+   >> nonlocal x
+   
