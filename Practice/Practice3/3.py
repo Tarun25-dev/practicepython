@@ -21,3 +21,18 @@ Python
 Copy code
 ['Akhil', 'Ravi', 'Tarun', 'Balu']
 """
+
+d = {
+    "Tarun": 85,
+    "Akhil": 92,
+    "Ravi": 85,
+    "Balu": 75
+}
+
+# Sort by marks (descending) and name (ascending)
+result = sorted(d.items(), key=lambda x: (-x[1], x[0]))
+
+# Extract only names
+names = [name for name, marks in result]
+
+print(names)
