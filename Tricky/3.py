@@ -1,4 +1,4 @@
-Longest Substring with K Distinct Characters
+# Longest Substring with K Distinct Characters
 
 def longest_k_distinct(s: str, k: int) -> int:
     from collections import defaultdict
